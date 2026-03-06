@@ -76,6 +76,7 @@
 - [Haystack RAG Theory](https://docs.haystack.deepset.ai/docs) – Concepts, architectures, and tutorials.
 - [Multimodal RAG Guides](https://github.com/jina-ai/jina) – Tutorials for text, image, and video retrieval.
 - [Advanced RAG: Retrieval, Reranking, and Tool Use](https://github.com/topics/rag) – Topic-level overview across GitHub.
+- [Learn Agentic Patterns](https://learnagenticpatterns.com) – Free interactive curriculum covering 21 agentic AI design patterns including RAG, with code examples and architecture diagrams.
 
 ## Related Awesome Lists
 
