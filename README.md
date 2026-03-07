@@ -60,6 +60,7 @@
 - [TruLens](https://github.com/truera/trulens) – Evaluation and monitoring for RAG pipelines.
 - [Arize Phoenix](https://github.com/Arize-ai/phoenix) – Open-source LLM observability and RAG evaluation toolkit.
 - [LangChain Evaluators](https://python.langchain.com/docs/guides/evaluation/) – Built-in evaluators for RAG, retrieval, and chain performance.
+- [WFGY Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) – Framework-agnostic 16-problem RAG failure taxonomy and fix map for RAG debugging.
 
 ## Examples
 
