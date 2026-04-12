@@ -29,6 +29,8 @@
 - [OpenSearch](https://github.com/opensearch-project/OpenSearch) – Search engine with vector search and hybrid retrieval for RAG setups.
 - [Jina](https://github.com/jina-ai/jina) – Framework for multimodal retrieval and generative search.
 - [Milvus Lite](https://github.com/milvus-io/milvus-lite) – Lightweight local vector DB ideal for prototyping RAG apps.
+- [toprank](https://github.com/nowork-studio/toprank) – Open-source Claude Code plugin providing SEO and Google Ads skills for retrieval-augmented marketing workflows.
+
 
 ## Vector Databases
 
