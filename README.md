@@ -56,6 +56,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [LlamaIndex Pipelines](https://github.com/run-llama/llama_index) – End-to-end pipelines for chunking, retrieval, reranking, and evaluation.
 - [Deepset Cloud](https://www.deepset.ai/cloud) – Fully managed RAG pipelines built on Haystack.
 - [FastRAG](https://github.com/bojone/fastrank) – Minimal, efficient RAG pipeline with reranking.
+- [supamem](https://github.com/dzmitrys-dev/supamem/) – Persistent RAG-based memory for AI coding agents (Claude Code, Cursor, OpenCode); chunking + dense (minilm) + sparse (bm25) with RRF fusion via Qdrant.
 
 ## Evaluation & Benchmarking
 
